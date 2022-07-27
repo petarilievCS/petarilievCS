@@ -1,5 +1,4 @@
 Hi, I’m @petarilievCS
-I’m interested in software engineering
-I’m currently learning front-end development (JavaScript, HTML/CSS)
+I'm a Computer Science student at UT Austin and a QE Intern at ServiceNow. I'm interested in gaining more experience as a mobile developer, specifically in the field of iOS development. 
 How to reach me: petariliev@utexas.edu
 
