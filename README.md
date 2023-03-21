@@ -9,7 +9,10 @@ I'm a sophomore studying Computer Science at UT Austin, an independent iOS devel
          <img alt="linkedin" title="Add me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-236ad3?style=for-the-badge&logoColor=white&logo=person-add"/></a>
       <a href="https://github.com/petarilievCS?tab=repositories">
          <img alt="repos" title="Projects" src="https://custom-icon-badges.demolab.com/badge/-Projects-%23E05D44?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      <a href="https://apps.apple.com/in/developer/petar-iliev/id1662092609">
+         <img alt="linkedin" title="Add me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-App%20Store-236ad3?style=for-the-badge&logoColor=white&logo=device-mobile"/></a>
          <img alt="email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-petariliev@utexas.edu-55960c?style=for-the-badge&logo=mention&logoColor=white"/>
+    
    </p>
    
   ---
