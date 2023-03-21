@@ -41,8 +41,8 @@ I'm a sophomore studying Computer Science at UT Austin, an independent iOS devel
 
 ### Projects
 
-<a href="https://github.com/petarilievCS/Crypto-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=Crypto-Tracker&show_icons=true&theme=github_dark" alt="finance-tracker" />
+<a href="https://github.com/petarilievCS/Finance-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=Finance-Tracker&show_icons=true&theme=github_dark" alt="finance-tracker" />
 </a> 
 <a href="https://github.com/petarilievCS/Caffeine-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=Caffeine-Tracker&show_icons=true&theme=github_dark" alt="caffeine-up" />
