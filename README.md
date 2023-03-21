@@ -51,14 +51,14 @@ I'm a sophomore studying Computer Science at UT Austin, an independent iOS devel
 
 #
 
-<details>
+
  <summary><h3>GitHub Stats</h3></summary>
 
 ![Petar's GitHub stats](https://github-readme-stats.vercel.app/api?username=petarilievCS&show_icons=true&theme=github_dark)
 
 ![Petar's GitHub stats](https://streak-stats.demolab.com?user=petarilievCS&theme=dark&&show_icons=true)
       
-</details>
+#
 
 
 
