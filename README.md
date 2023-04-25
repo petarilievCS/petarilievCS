@@ -47,7 +47,12 @@ I'm a sophomore studying Computer Science at UT Austin, an independent iOS devel
 <a href="https://github.com/petarilievCS/Caffeine-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=Caffeine-Tracker&show_icons=true&theme=github_dark" alt="caffeine-up" />
 </a>
-
+<a href="https://github.com/petarilievCS/parkscape">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=parkscape&show_icons=true&theme=github_dark" alt="parkscape" />
+</a> 
+<a href="https://github.com/petarilievCS/Trading-Engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=trading-engine&show_icons=true&theme=github_dark" alt="trading-engine" />
+</a>
 
 #
 
