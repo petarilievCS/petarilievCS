@@ -2,7 +2,7 @@
 
 **`Mobile Developer (iOS)`**
 
-I'm a sophomore studying Computer Science at UT Austin, an independent iOS developer, and an incoming Software Engineer Intern in the iOS Engineering team at ServiceNow. I enjoy building iOS applications in my free time, and I've published 3 of them on the App Store. I specialize in Swift (UIKit, SwiftUI, Core Data), and I have some experience with Flutter and React Native. Lately, I've been getting more interested in backend development with Python (Flask, SQLAlchemy, MySQL) and hosting with AWS. Lastly, I also have experience with C/C++ and Java.
+I'm a sophomore studying Computer Science at UT Austin, an independent iOS developer, and a Software Engineer Intern in the iOS Engineering team at ServiceNow. I enjoy building iOS applications in my free time, and I've published 3 of them on the App Store. I specialize in Swift (UIKit, SwiftUI, Core Data), and I have some experience with Flutter and React Native. Lately, I've been getting more interested in backend development with Python (Flask, SQLAlchemy, MySQL). Lastly, I also have experience with C/C++, Java and AWS.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/petarilievcs/">
@@ -50,8 +50,8 @@ I'm a sophomore studying Computer Science at UT Austin, an independent iOS devel
 <a href="https://github.com/petarilievCS/parkscape">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=parkscape&show_icons=true&theme=github_dark" alt="parkscape" />
 </a> 
-<a href="https://github.com/petarilievCS/Trading-Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=trading-engine&show_icons=true&theme=github_dark" alt="trading-engine" />
+<a href="https://github.com/petarilievCS/Food-Recognizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=Food-Recognizer&show_icons=true&theme=github_dark" alt="food-recognizer" />
 </a>
 
 #
