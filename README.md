@@ -2,7 +2,7 @@
 
 **`Mobile Developer (iOS)`**
 
-I'm a sophomore studying Computer Science at UT Austin, an independent iOS developer, and a Software Engineer Intern in the iOS Engineering team at ServiceNow. I enjoy building iOS applications in my free time, and I've published 3 of them on the App Store. I specialize in Swift (UIKit, SwiftUI, Core Data), and I have some experience with Flutter and React Native. Lately, I've been getting more interested in backend development with Python (Flask, SQLAlchemy, MySQL). Lastly, I also have experience with C/C++, Java and AWS.
+I'm a sophomore studying Computer Science at UT Austin, an independent iOS developer, and a Software Engineer Intern in the Health Software team at Apple. I enjoy building iOS applications in my free time, and I've published 3 of them on the App Store. I specialize in Swift (UIKit, SwiftUI), but I've been getting more interested in backend development with Python (Flask, SQLAlchemy, MySQL) and data science (Pandas, Matplotlib, NumPy). Lastly, I also have experience with C/C++, Java and AWS.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/petarilievcs/">
@@ -10,7 +10,6 @@ I'm a sophomore studying Computer Science at UT Austin, an independent iOS devel
       <a href="https://petariliev.io/">
          <img alt="repos" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Projects-%23E05D44?style=for-the-badge&logoColor=white&logo=repo"/></a>
       <a href="https://apps.apple.com/in/developer/petar-iliev/id1662092609">
-         <img alt="linkedin" title="Add me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-App%20Store-236ad3?style=for-the-badge&logoColor=white&logo=device-mobile"/></a>
          <img alt="email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-petariliev@utexas.edu-55960c?style=for-the-badge&logo=mention&logoColor=white"/>
     
    </p>
@@ -23,17 +22,17 @@ I'm a sophomore studying Computer Science at UT Austin, an independent iOS devel
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <br />
 
@@ -53,9 +52,12 @@ I'm a sophomore studying Computer Science at UT Austin, an independent iOS devel
 <a href="https://github.com/petarilievCS/Food-Recognizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=Food-Recognizer&show_icons=true&theme=github_dark" alt="food-recognizer" />
 </a>
-
-#
-
+<a href="https://github.com/petarilievCS/space-race-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=space-race-analysis&show_icons=true&theme=github_dark" alt="space-race-analysis" />
+</a>
+<a href="https://github.com/petarilievCS/page-rank-parallel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=page-rank-parallel&show_icons=true&theme=github_dark" alt="page-rank-parallel" />
+</a>
 
  <summary><h3>GitHub Stats</h3></summary>
 
