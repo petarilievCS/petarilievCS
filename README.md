@@ -2,7 +2,7 @@
 
 **`Mobile Developer (iOS)`**
 
-I'm a junior studying Computer Science at UT Austin, an independent iOS developer, and a Software Engineer Intern in the Health Software team at Apple. I enjoy building iOS applications in my free time, and I've published 3 of them on the App Store. I specialize in Swift (UIKit, SwiftUI), but I've been getting more interested in backend development with Python (Flask, SQLAlchemy, MySQL) and data science (Pandas, Matplotlib, NumPy). Lastly, I also have experience with C/C++, Java and AWS.
+I'm a junior studying Computer Science at UT Austin, an independent iOS developer, and a Software Engineer Intern in the Health Software team at Apple. I enjoy building iOS applications in my free time, and I've published 3 of them on the App Store. I specialize in Swift (UIKit, SwiftUI), but I've been getting more interested in backend development with Python (Flask, SQLAlchemy, PostgreSQL) and data science (Pandas, Matplotlib, NumPy). Lastly, I also have experience with C/C++, Java and AWS.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/petarilievcs/">
