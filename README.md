@@ -73,4 +73,4 @@ When I was in my junior year of high school, I was trying to find a college majo
 
 In addition, I joined the iOS Engineering team at ServiceNow in order to gain further professional experience in the area. During this period, I also learned Flutter in order to make my applications cross-platform. On the side, I've also learned a lot about backend development, specifically in Python (Flask, SQLAlchemy, MySQL), and competitive programming in C++. 
 
-Moving on, in my Junior year in college, I learned more about parallel programming using pThreads and OpenMP in C/C++, as well as Data Science using Python (Pandas, NumPy, Matplotlib, Seaborn). 
+Moving on, in my Junior year in college, I learned more about parallel programming using pThreads and OpenMP in C/C++, as well as Data Science using Python (Pandas, NumPy, Matplotlib, Seaborn). In the next semster, I went on exchange at the University of New South Wales in Sydney, Australia, where I improved my SQL skills by taking a Database Systems course and took an introductory Artificial Intelligence course. 
